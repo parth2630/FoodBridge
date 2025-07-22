@@ -1,3 +1,4 @@
+#FoodBridge
 # Food Waste Donation Platform
 
 A platform connecting food donors (hotels, events, homes) with NGOs for efficient food waste management and distribution.
@@ -65,7 +66,7 @@ npm start
 ## Project Structure
 
 ```
-food-waste-donation/
+food/
 ├── public/
 │   ├── index.html
 │   └── assets/
